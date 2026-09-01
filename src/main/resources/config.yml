@@ -1,0 +1,9 @@
+debug: false
+
+zone:
+  enabled: false
+  world: world
+  radius: 100
+  x: 0
+  z: 0
+  block-elytra-flight: false

@@ -1,0 +1,18 @@
+name: NoFlyZone
+version: '${project.version}'
+main: pl.noflyzone.NoFlyZonePlugin
+api-version: '1.21'
+description: Blocks elytra firework boosts in a city no-fly zone
+author: NoFlyZone
+
+commands:
+  noflyzone:
+    description: Configure the elytra no-fly zone
+    usage: /noflyzone <set|world|elytra|enable|disable|info|help> [args]
+    permission: noflyzone.admin
+    aliases: [nfz]
+
+permissions:
+  noflyzone.admin:
+    description: Allows configuring the no-fly zone
+    default: op
