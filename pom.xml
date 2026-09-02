@@ -34,7 +34,7 @@
     </dependencies>
 
     <build>
-        <finalName>${project.artifactId}-${project.version}</finalName>
+        <finalName>NoFlyZone</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>

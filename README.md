@@ -13,7 +13,7 @@ Paper plugin that blocks elytra flight with firework rockets (and optionally all
 .\build.ps1 package
 ```
 
-Output: `target/NoFlyZone-1.0.0.jar` — copy it into your server's `plugins/` folder.
+Output: `target/NoFlyZone.jar` — copy it into your server's `plugins/` folder.
 
 ## Commands
 
